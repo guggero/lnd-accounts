@@ -1,3 +1,9 @@
+This project has been archived!
+A new approach with a different architecture can be found here:
+ - [RPC message interceptor for lnd (replaces the component in aperture)](https://github.com/guggero/lnd/tree/macaroon-interceptor)
+ - [Account system in faraday (replaces this repository)](https://github.com/guggero/faraday/tree/lnd-accounts)
+
+
 # Accounts plugin for lnd
 
 This is the continuation of the work [previously started as a PR in lnd](https://github.com/lightningnetwork/lnd/pull/2390).
